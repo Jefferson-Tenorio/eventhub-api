@@ -1,8 +1,7 @@
 {
   "name": "challenger",
   "version": "1.0.0",
-  "description": "",
-  "main": "src/main.js",
+  "description": "RESTful API for corporate event management with JWT authentication, structured logging, and full CRUD operations.",  "main": "src/main.js",
   "directories": {
     "doc": "docs"
   },
